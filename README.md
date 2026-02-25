@@ -77,4 +77,21 @@ output/test_api.jpg
 ├── docker-compose.yml
 └── Dockerfile
 
+## 📸 Evidencias
+
+### Contenedores activos
+
+![Docker PS](docs/images/docker-ps.png)
+
+### Respuesta en Postman
+
+![Postman](docs/images/postman-response.png)
+
+### Logs de procesamiento
+
+![Logs](docs/images/worker-logs.png)
+
+### Imagen procesada
+
+![Output](docs/images/output-image.png)
 ```bash
