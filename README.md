@@ -81,17 +81,17 @@ output/test_api.jpg
 
 ### Contenedores activos
 
-![Docker PS](docs/images/docker-ps.png)
+![Docker PS](docs/docker-ps.png)
 
 ### Respuesta en Postman
 
-![Postman](docs/images/postman-response.png)
+![Postman](docs/postman-response.png)
 
 ### Logs de procesamiento
 
-![Logs](docs/images/worker-logs.png)
+![Logs](docs/worker-logs.png)
 
 ### Imagen procesada
 
-![Output](docs/images/output-image.png)
+![Output](docs/output-image.png)
 ```bash
